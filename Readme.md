@@ -24,7 +24,8 @@
 
 # Q&A
 プログラムに関する質問や解説は[Issues](https://github.com/h4rutank/Atomic_Vortex_MonteCarlo/issues)を参照．
- 
+Feel free to reach out🙂
+
 # Author
  
 * H. Toyama
