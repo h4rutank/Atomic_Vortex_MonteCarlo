@@ -33,6 +33,6 @@
  
 # License
 
-Copyright (c) 2024 h4rtank
+Copyright (c) 2024 h4rutank
 
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
