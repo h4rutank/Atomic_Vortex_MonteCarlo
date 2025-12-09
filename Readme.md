@@ -23,7 +23,7 @@
 8. ビルド&デバッグなしで実行
 
 # Q&A
-プログラムに関する質問や解説は[Issues](https://github.com/h4rutank/Atomic_Vortex_MonteCarlo/issues)を参照．\\
+プログラムに関する質問や解説は[Issues](https://github.com/h4rutank/Atomic_Vortex_MonteCarlo/issues)を参照．<br>
 Feel free to reach out🙂
 
 # Author
