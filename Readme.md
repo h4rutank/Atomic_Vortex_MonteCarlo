@@ -21,6 +21,9 @@
 5. 「ヘッダファイル」で右クリックして[追加]->[既存の項目]から、本リポジトリのヘッダファイルを追加
 6. スタックサイズの変更．[プロジェクト]->[プロパティ]->[リンカ]->[システム]->[スタックサイズの変更]の値を10485760として，[OK]
 8. ビルド&デバッグなしで実行
+
+# Q&A
+プログラムに関する質問や解説は[Issues](https://github.com/h4rutank/Atomic_Vortex_MonteCarlo/issues)を参照．
  
 # Author
  
@@ -30,6 +33,6 @@
  
 # License
 
-Copyright (c) 2024 hagakure114514
+Copyright (c) 2024 h4rtank
 
 [MIT license](https://en.wikipedia.org/wiki/MIT_License).
