@@ -28,9 +28,9 @@ Feel free to reach out🙂
 
 # Author
  
-* H. Toyama
+* Toyama
 * Tokyo Tech
-* twitter: [@haru_tank](https://twitter.com/haru_tank)
+
  
 # License
 
