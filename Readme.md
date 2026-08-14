@@ -28,8 +28,7 @@ Feel free to reach out🙂
 
 # Author
  
-* Toyama
-* Tokyo Tech
+* Haru
 
  
 # License
